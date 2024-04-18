@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio2/static/css/main.e34ca880.css",
+    "main.js": "/portfolio2/static/js/main.6e11a85b.js",
+    "static/media/profil_pic (2).jpg": "/portfolio2/static/media/profil_pic (2).650ec5df9fcaf47c98c3.jpg",
+    "static/media/profil_pic (1).jpg": "/portfolio2/static/media/profil_pic (1).cc3d35d31adfafa39383.jpg",
+    "static/media/movieApp.png": "/portfolio2/static/media/movieApp.0b18ba87009e0d6bc0d6.png",
+    "static/media/quizeApp.png": "/portfolio2/static/media/quizeApp.5c123ab1ab0276414f4c.png",
+    "static/media/hotel1.png": "/portfolio2/static/media/hotel1.5f85f6f22964cef691f2.png",
+    "static/media/bg1.jpg": "/portfolio2/static/media/bg1.4856c92f111c3b94da0b.jpg",
+    "static/media/NotoSans-Bold.ttf": "/portfolio2/static/media/NotoSans-Bold.5f7ac340604afb2500f1.ttf",
+    "static/media/PTSans-Bold.ttf": "/portfolio2/static/media/PTSans-Bold.610bc32a7e32c292ce59.ttf",
+    "static/media/background.jpg": "/portfolio2/static/media/background.54b4a35a615d628f414d.jpg",
+    "static/media/Montserrat-Bold.ttf": "/portfolio2/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/upwork.png": "/portfolio2/static/media/upwork.b1a90130a5795f4b7829.png",
+    "static/media/Lato-Light.ttf": "/portfolio2/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/portfolio2/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/portfolio2/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/img1.jpg": "/portfolio2/static/media/img1.9fb720cc37b5bb311092.jpg",
+    "static/media/Jost-LightItalic.ttf": "/portfolio2/static/media/Jost-LightItalic.e2936a1e3ae62449194c.ttf",
+    "static/media/Jost-Light.ttf": "/portfolio2/static/media/Jost-Light.716ee74019eb47be60d8.ttf",
+    "static/media/Jost-Bold.ttf": "/portfolio2/static/media/Jost-Bold.31ea9eccd9c8723bd3e8.ttf",
+    "static/media/Jost-Regular.ttf": "/portfolio2/static/media/Jost-Regular.59de2b38b1b77348c048.ttf",
+    "static/media/fiverr.png": "/portfolio2/static/media/fiverr.bf6e3d72bf7abf7ae944.png",
+    "static/media/logo.svg": "/portfolio2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio2/index.html",
+    "main.e34ca880.css.map": "/portfolio2/static/css/main.e34ca880.css.map",
+    "main.6e11a85b.js.map": "/portfolio2/static/js/main.6e11a85b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34ca880.css",
+    "static/js/main.6e11a85b.js"
+  ]
+}
